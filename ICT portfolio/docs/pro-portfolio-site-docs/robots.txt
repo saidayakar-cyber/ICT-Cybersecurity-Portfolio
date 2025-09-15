@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://saidayakar-cyber.github.io/Cybersecurity-Portfolio/sitemap.xml
