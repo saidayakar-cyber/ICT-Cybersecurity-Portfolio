@@ -1,6 +1,6 @@
 # Sai Dayakar Reddy Gollapudi — Cybersecurity Portfolio
 
-Welcome! I am a **Master’s graduate in IT (Cybersecurity Specialisation)** and a beginner cybersecurity learner.This portfolio showcases beginner-friendly labs and projects I’ve built while learning cybersecurity.
+Welcome! I am a **Master’s graduate in IT (Cybersecurity Specialisation)** and a beginner cybersecurity learner. This portfolio showcases beginner-friendly labs and projects I’ve built while learning cybersecurity.
 
 ---
 
