@@ -1,0 +1,9 @@
+body { font-family: Arial, sans-serif; margin: 0; background: #f9f9f9; color: #333; }
+header.hero { background: #004080; color: white; padding: 30px; text-align: center; }
+nav { background: #003366; padding: 10px; text-align: center; }
+nav a { color: white; margin: 0 15px; text-decoration: none; }
+section { padding: 20px; max-width: 800px; margin: auto; }
+h2 { border-bottom: 2px solid #ddd; padding-bottom: 5px; }
+.cards { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 15px; }
+.card { background: white; border: 1px solid #ddd; padding: 15px; border-radius: 8px; }
+footer { background: #003366; color: white; text-align: center; padding: 10px; margin-top: 20px; }
