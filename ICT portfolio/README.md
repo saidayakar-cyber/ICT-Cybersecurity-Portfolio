@@ -13,7 +13,7 @@ Welcome! I am a **Master’s graduate in IT (Cybersecurity Specialisation)** and
 ---
 
 ## 🛡️ About Me
-I am a beginner cybersecurity professional with a strong interest in **IT support, network security, and system hardening**. I have pursued my **Master’s in IT (Cybersecurity)** and gained practical skills through projects and certifications.
+I am a beginner cybersecurity professional with a strong interest in **IT support, network security, and system hardening** and gained practical skills through projects and certifications.
 
 ---
 
