@@ -7,8 +7,8 @@ Welcome! I am a **Master’s graduate in IT (Cybersecurity Specialisation)** and
 ## 🔗 Links
 - 📧 Email: [saidayakargollapudi@gmail.com](mailto:saidayakargollapudi@gmail.com)
 - 💼 LinkedIn: [Sai Dayakar Reddy Gollapudi](https://www.linkedin.com/in/sai-dayakar-reddy-gollapudi-b2b6651ab/)
-- 🐙 GitHub: [https://github.com/YourUsername](https://github.com/saidayakar-cyber)
-- 🌐 Website: [https://your-username.github.io/Cybersecurity-Portfolio/](https://saidayakar-cyber.github.io/cyber/)
+- 🐙 GitHub: https://github.com/saidayakar-cyber
+- 🌐 Website: https://saidayakar-cyber.github.io/cyber/
 
 ---
 
