@@ -29,8 +29,9 @@ I am a beginner cybersecurity professional with a strong interest in **IT suppor
 ## 📚 Certifications
 - **CompTIA A+ (in progress)**  
 - **CompTIA Security+ (target)**  
-- **Google Cybersecurity Professional Certificate (Coursera)**  
-- **Microsoft Security, Compliance, and Identity Fundamentals (SC-900)**  
+- **Google IT Support Professional Certificate (Coursera)**  
+- **CCNA Certification(in progress)**
+- **MS 365 Fundamentals Specialization (Coursera)**   
 
 ---
 
